@@ -21,7 +21,7 @@ There are social networks of all kinds and for all kinds of interests. For examp
 
 Linkedin is a social network for professional use, it was founded in 2002, according to an [article](https://kinsta.com/es/blog/estadisticas-de-linkedin/) published this year, it has more than 575 million users, with more than 260 million active users. It has multiple functionalities that help to expose the academic level, work experience, apply for job offers and expand your network of contacts. However, a survey was conducted for this project that yielded some opportunities for improvement
 
-My proposal for this social network is to segment the demand and professional offer, this would facilitate the search for offers and hire services directly as fiverr does in the case of independent
+My proposal for this social network is to segment the demand and professional offer, this would facilitate the search for offers and hire services directly as fiverr does in the case of independent...
 
 ## 3. User stories
 
@@ -31,17 +31,21 @@ _I, as a new user, want to register with my email to create an account._
 
 - Acceptance criteria
 
-  - 
+  - I want to know basic information about the social network
+  - I want to create an account with the email of my choice
+  - The interface must be friendly and dynamic
+  - Validation through my account
 
 - Definition of done
 
-  - Sketch (Low fidelity)
-  - Sketch's feedback (Laboratoria- External)
-  - High fidelity prototype
-  - Feedback Figma prototype
-  - Fork and clone repository
-  - 
-  - Upload repository in GitHub
+  - Interface sketch
+  - Sketch feedback
+  - High fidelity prototype (Mobile version)
+  - High fidelity prototype feedback
+  - Usability test
+  - Surveys
+  - Routes
+  - Firebase Auth
 
 ### H2
 
@@ -49,129 +53,21 @@ _I, as a new user, want to register with Facebook or Gmail to create a new accou
 
 - Acceptance criteria
 
-  - 
+  - I want to know basic information about the social network
+  - I want to login with Facebook
+  - I want to login with Gmail
+  - I want to login with Slack
+  - I want to login with Twitter
+  - The interface must be friendly and dynamic
+
+
 
 - Definition of done
 
-  - 
-  - Update repository
-
-### H3
-
-_I, as an architect, want to make a post to share my opinion about a new construction material._
-
-- Acceptance criteria
-
-  - 
-
-- Definition of done
-
-  - 
-  - Update repository
-
-### H4
-
-_I, as a contractor, want to like a post to show my support for a proposal from a construction company._
-
-- Acceptance criteria
-
-  - 
-
-- Definition of done
-
-  - 
-  - Update repository
-
-### H5
-
-_I, as a landscaper, want to remove my like from the proposal, to show my disagreement with the lack of green areas._
-
-- Acceptance criteria
-
-  - 
-
-- Definition of done
-
-  - 
-  - Update repository
-
-### H6
-
-_I, as a construction company, want to edit the content of my publication to add to the project the inclusion and information of the required green areas._
-
-- Acceptance criteria
-
-  - 
-
-- Definition of done
-
-  - 
-  - Update repository
-  
-### H7
-
-_I, as a user, want to delete a previous post to have less irrelevant post._
-
-- Acceptance criteria
-
-  - 
-
-- Definition of done
-
-  - 
-  - Update repository
-  
-### H8
-
-_I, as a renderer, want to post images to share what the finished project is estimated to look like._
-
-- Acceptance criteria
-
-  - 
-
-- Definition of done
-
-  - 
-  - Update repository
-
-  
-### H9
-
-_I, as a carpenter, want to add contacts to..._
-
-- Acceptance criteria
-
-  - 
-
-- Definition of done
-
-  - 
-  - Update repository
-
-  
-### H10
-
-_I, as an user, want to share my posts only with my friends to have privacity._
-
-- Acceptance criteria
-
-  - 
-
-- Definition of done
-
-  - 
-  - Update repository
-
-  
-### H11
-
-_I, as an architectural artist, want to edit my profile to add a description of my abilities._
-
-- Acceptance criteria
-
-  - 
-
-- Definition of done
-
-  - 
-  - Update repository
+  - Interface sketch
+  - Sketch feedback
+  - High fidelity prototype (Mobile version)
+  - High fidelity prototype feedback
+  - Usability test
+  - Routes
+  - Firebase Auth
